@@ -4,7 +4,7 @@ package exemplo_and_e_our;
  * Hello world!
  *
  */
-public class App 
+public class and_e_our 
 {
     public static void main( String[] args ){
         // Declarando variáveis
